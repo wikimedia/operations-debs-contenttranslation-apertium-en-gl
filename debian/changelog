@@ -1,0 +1,11 @@
+apertium-en-gl (0.5.2~r57551-1) trusty; urgency=low
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Apr 2015 19:16:40 +0530
