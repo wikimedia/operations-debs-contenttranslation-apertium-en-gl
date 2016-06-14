@@ -9,10 +9,6 @@ Copyright: 2008, imaxin|software
            2005-2007, Universitat d'Alacant (Transducens group)
 License: GPL-2
 
-Files: translate-to-default-equivalent.xsl
-Copyright: 2005, Universitat d'Alacant / Universidad de Alicante
-License: GPL-2
-
 Files: autogen.sh
 Copyright: 2002, Daniel Elstner  <daniel.elstner@gmx.net>
 License: GPL-2

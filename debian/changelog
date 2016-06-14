@@ -1,3 +1,14 @@
+apertium-en-gl (0.5.2~r57551-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuilt for Jessie.
+  * debian/control:
+    + Fixed Build-Dep and Depends.
+    + Updated Vcs-Git URL.
+  * debian/rules:
+    + Simplified rules for locales.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 14 Jun 2016 20:18:27 +0530
+
 apertium-en-gl (0.5.2~r57551-1) trusty; urgency=low
 
   [ Kartik Mistry ]
